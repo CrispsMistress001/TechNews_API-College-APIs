@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\bin\Debug\net6.0\TechNews_API.exe
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\bin\Debug\net6.0\TechNews_API.deps.json
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\bin\Debug\net6.0\TechNews_API.runtimeconfig.json
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\bin\Debug\net6.0\TechNews_API.dll
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\bin\Debug\net6.0\TechNews_API.pdb
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\TechNews_API.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\TechNews_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\TechNews_API.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\TechNews_API.AssemblyInfo.cs
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\TechNews_API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\TechNews_API.dll
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\refint\TechNews_API.dll
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\TechNews_API.pdb
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\TechNews_API.genruntimeconfig.cache
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\ref\TechNews_API.dll
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\[User\Github\TechNews_API\TechNews_API\obj\Debug\net6.0\TechNews_API.csproj.CopyComplete
