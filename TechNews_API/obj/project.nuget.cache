@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z7Zply81c15BoKeTg1eC/DBi2nPB8elRNNfEUD74yKwnipwFPgUr2vQQ5f+O6/VYXOs798zKm5KtDMZc17xrBg==",
+  "dgSpecHash": "2+88b/t6GgzB9NvC7wFpDfH3O7wnXY5LW7uHlsN1z5ue5gLdQIx5OjdDbcwzvkd/o7xaHnFMSa3nJH89KVZ25w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Documents\\[User\\Github\\TechNews_API\\TechNews_API\\TechNews_API.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\[User\\Github\\TechNews_API College APIs\\TechNews_API\\TechNews_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
