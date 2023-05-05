@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2+88b/t6GgzB9NvC7wFpDfH3O7wnXY5LW7uHlsN1z5ue5gLdQIx5OjdDbcwzvkd/o7xaHnFMSa3nJH89KVZ25w==",
+  "dgSpecHash": "9kHBrwicKW0e7N5ij3IchtaASrPHWuVZUyVyOxVFTvYpAVLCgVJo6NvYgfFwcqUu82e3Gk+OWKZztsoI6yFKSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Documents\\[User\\Github\\TechNews_API College APIs\\TechNews_API\\TechNews_API.csproj",
+  "projectFilePath": "/home/crispy/Documents/Github/TechNews_API-College-APIs/TechNews_API/TechNews_API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "/home/crispy/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
